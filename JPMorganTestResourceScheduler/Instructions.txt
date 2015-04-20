@@ -1,0 +1,10 @@
+To run or build the project, you can:
++ Open the project with Eclipse
+Or:
++ Use Ant to build and run the project
+
+To run the simulation of the resource scheduler system using Ant:
+- point the current directory to the root of the project
+- type the following command in terminal:
+
+ant SchedulerSystemSimulation
