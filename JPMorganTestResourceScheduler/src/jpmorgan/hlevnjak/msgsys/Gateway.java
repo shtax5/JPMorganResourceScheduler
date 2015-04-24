@@ -1,4 +1,4 @@
-package jpmorgan.hlevnjak.messagingsystem;
+package jpmorgan.hlevnjak.msgsys;
 
 /***
  * The Gateway interface represents the final destination that 

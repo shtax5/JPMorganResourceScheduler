@@ -1,4 +1,4 @@
-package jpmorgan.hlevnjak.messagingsystem.junit;
+package jpmorgan.hlevnjak.msgsys.junit;
 
 import static org.junit.Assert.assertTrue;
 
@@ -6,10 +6,10 @@ import java.util.Arrays;
 import java.util.Queue;
 import java.util.concurrent.ArrayBlockingQueue;
 
-import jpmorgan.hlevnjak.messagingsystem.Message;
-import jpmorgan.hlevnjak.messagingsystem.MessageFactory;
-import jpmorgan.hlevnjak.messagingsystem.impl.MessageFactoryImpl;
-import jpmorgan.hlevnjak.messagingsystem.impl.ResourceSchedulerGroupPriority;
+import jpmorgan.hlevnjak.msgsys.Message;
+import jpmorgan.hlevnjak.msgsys.MessageFactory;
+import jpmorgan.hlevnjak.msgsys.impl.MessageFactoryImpl;
+import jpmorgan.hlevnjak.msgsys.impl.ResourceSchedulerGroupPriority;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package jpmorgan.hlevnjak.messagingsystem;
+package jpmorgan.hlevnjak.msgsys;
 
 /***
  * The MessageFactory is in charge of creating 

@@ -1,7 +1,7 @@
-package jpmorgan.hlevnjak.messagingsystem.impl;
+package jpmorgan.hlevnjak.msgsys.impl;
 
-import jpmorgan.hlevnjak.messagingsystem.Message;
-import jpmorgan.hlevnjak.messagingsystem.MessageFactory;
+import jpmorgan.hlevnjak.msgsys.Message;
+import jpmorgan.hlevnjak.msgsys.MessageFactory;
 
 /***
  * A simple implementation of MessageFactory. Returns a new object of the requested 

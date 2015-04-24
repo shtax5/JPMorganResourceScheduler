@@ -1,15 +1,15 @@
-package jpmorgan.hlevnjak.messagingsystem.simulation;
+package jpmorgan.hlevnjak.msgsys.simulation;
 
-import jpmorgan.hlevnjak.messagingsystem.Gateway;
-import jpmorgan.hlevnjak.messagingsystem.Message;
-import jpmorgan.hlevnjak.messagingsystem.MessageFactory;
-import jpmorgan.hlevnjak.messagingsystem.ResourceManager;
-import jpmorgan.hlevnjak.messagingsystem.ResourceScheduler;
-import jpmorgan.hlevnjak.messagingsystem.exceptions.TerminatedGroupException;
-import jpmorgan.hlevnjak.messagingsystem.impl.GatewaySimple;
-import jpmorgan.hlevnjak.messagingsystem.impl.MessageFactoryImpl;
-import jpmorgan.hlevnjak.messagingsystem.impl.ResourceManagerSimple;
-import jpmorgan.hlevnjak.messagingsystem.impl.ResourceSchedulerGroupPriority;
+import jpmorgan.hlevnjak.msgsys.Gateway;
+import jpmorgan.hlevnjak.msgsys.Message;
+import jpmorgan.hlevnjak.msgsys.MessageFactory;
+import jpmorgan.hlevnjak.msgsys.ResourceManager;
+import jpmorgan.hlevnjak.msgsys.ResourceScheduler;
+import jpmorgan.hlevnjak.msgsys.exceptions.TerminatedGroupException;
+import jpmorgan.hlevnjak.msgsys.impl.GatewaySimple;
+import jpmorgan.hlevnjak.msgsys.impl.MessageFactoryImpl;
+import jpmorgan.hlevnjak.msgsys.impl.ResourceManagerSimple;
+import jpmorgan.hlevnjak.msgsys.impl.ResourceSchedulerGroupPriority;
 
 /***
  * This is the starting point of the program simulation. 

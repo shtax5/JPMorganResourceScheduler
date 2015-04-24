@@ -1,6 +1,6 @@
-package jpmorgan.hlevnjak.messagingsystem;
+package jpmorgan.hlevnjak.msgsys;
 
-import jpmorgan.hlevnjak.messagingsystem.exceptions.TerminatedGroupException;
+import jpmorgan.hlevnjak.msgsys.exceptions.TerminatedGroupException;
 
 /***
  * ResourceScheduler has the responsibility to listen to incoming messages, and process them as resources 

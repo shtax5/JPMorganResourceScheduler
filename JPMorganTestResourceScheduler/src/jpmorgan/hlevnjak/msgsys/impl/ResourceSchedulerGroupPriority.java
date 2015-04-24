@@ -1,12 +1,12 @@
-package jpmorgan.hlevnjak.messagingsystem.impl;
+package jpmorgan.hlevnjak.msgsys.impl;
 
 import java.util.Iterator;
 import java.util.Queue;
 
-import jpmorgan.hlevnjak.messagingsystem.Gateway;
-import jpmorgan.hlevnjak.messagingsystem.Message;
-import jpmorgan.hlevnjak.messagingsystem.ResourceManager;
-import jpmorgan.hlevnjak.messagingsystem.ResourceSchedulerAbstract;
+import jpmorgan.hlevnjak.msgsys.Gateway;
+import jpmorgan.hlevnjak.msgsys.Message;
+import jpmorgan.hlevnjak.msgsys.ResourceManager;
+import jpmorgan.hlevnjak.msgsys.ResourceSchedulerAbstract;
 
 /***
  * An implementation of ResourceScheduler to include the message prioritising algorithm 

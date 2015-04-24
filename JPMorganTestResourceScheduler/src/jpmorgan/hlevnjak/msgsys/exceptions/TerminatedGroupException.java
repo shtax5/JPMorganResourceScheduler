@@ -1,4 +1,4 @@
-package jpmorgan.hlevnjak.messagingsystem.exceptions;
+package jpmorgan.hlevnjak.msgsys.exceptions;
 
 /***
  * Raised when the resource scheduler receives a message that belongs 

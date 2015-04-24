@@ -1,12 +1,12 @@
-package jpmorgan.hlevnjak.messagingsystem.impl;
+package jpmorgan.hlevnjak.msgsys.impl;
 
 import java.util.List;
 import java.util.concurrent.CountDownLatch;
 
-import jpmorgan.hlevnjak.messagingsystem.Gateway;
-import jpmorgan.hlevnjak.messagingsystem.Message;
-import jpmorgan.hlevnjak.messagingsystem.Resource;
-import jpmorgan.hlevnjak.messagingsystem.ResourceManager;
+import jpmorgan.hlevnjak.msgsys.Gateway;
+import jpmorgan.hlevnjak.msgsys.Message;
+import jpmorgan.hlevnjak.msgsys.Resource;
+import jpmorgan.hlevnjak.msgsys.ResourceManager;
 
 /***
  * A simple implementation of ResourceManager. This class manages resources by creating a 

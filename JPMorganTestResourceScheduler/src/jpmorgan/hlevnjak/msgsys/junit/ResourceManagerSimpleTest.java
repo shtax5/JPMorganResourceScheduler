@@ -1,4 +1,4 @@
-package jpmorgan.hlevnjak.messagingsystem.junit;
+package jpmorgan.hlevnjak.msgsys.junit;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -7,13 +7,13 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import jpmorgan.hlevnjak.messagingsystem.Message;
-import jpmorgan.hlevnjak.messagingsystem.Resource;
-import jpmorgan.hlevnjak.messagingsystem.ResourceManager;
-import jpmorgan.hlevnjak.messagingsystem.impl.GatewaySimple;
-import jpmorgan.hlevnjak.messagingsystem.impl.MessageImpl;
-import jpmorgan.hlevnjak.messagingsystem.impl.ResourceManagerSimple;
-import jpmorgan.hlevnjak.messagingsystem.impl.ResourceSimple;
+import jpmorgan.hlevnjak.msgsys.Message;
+import jpmorgan.hlevnjak.msgsys.Resource;
+import jpmorgan.hlevnjak.msgsys.ResourceManager;
+import jpmorgan.hlevnjak.msgsys.impl.GatewaySimple;
+import jpmorgan.hlevnjak.msgsys.impl.MessageImpl;
+import jpmorgan.hlevnjak.msgsys.impl.ResourceManagerSimple;
+import jpmorgan.hlevnjak.msgsys.impl.ResourceSimple;
 
 import org.junit.BeforeClass;
 import org.junit.Test;

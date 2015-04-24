@@ -1,4 +1,4 @@
-package jpmorgan.hlevnjak.messagingsystem;
+package jpmorgan.hlevnjak.msgsys;
 
 /***
  * The Message interface represents a single message to be sent to the Gateway

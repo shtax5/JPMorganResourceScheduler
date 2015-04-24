@@ -1,6 +1,6 @@
-package jpmorgan.hlevnjak.messagingsystem.impl;
+package jpmorgan.hlevnjak.msgsys.impl;
 
-import jpmorgan.hlevnjak.messagingsystem.Message;
+import jpmorgan.hlevnjak.msgsys.Message;
 
 /***
  * This class represents a termination message. This type of message is not supposed to be sent 

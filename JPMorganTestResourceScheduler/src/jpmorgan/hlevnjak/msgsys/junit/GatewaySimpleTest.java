@@ -1,9 +1,9 @@
-package jpmorgan.hlevnjak.messagingsystem.junit;
+package jpmorgan.hlevnjak.msgsys.junit;
 
 import static org.junit.Assert.*;
-import jpmorgan.hlevnjak.messagingsystem.Message;
-import jpmorgan.hlevnjak.messagingsystem.impl.GatewaySimple;
-import jpmorgan.hlevnjak.messagingsystem.impl.MessageImpl;
+import jpmorgan.hlevnjak.msgsys.Message;
+import jpmorgan.hlevnjak.msgsys.impl.GatewaySimple;
+import jpmorgan.hlevnjak.msgsys.impl.MessageImpl;
 
 import org.junit.After;
 import org.junit.Before;

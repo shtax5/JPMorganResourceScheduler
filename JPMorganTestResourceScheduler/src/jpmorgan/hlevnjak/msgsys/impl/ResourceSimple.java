@@ -1,11 +1,11 @@
-package jpmorgan.hlevnjak.messagingsystem.impl;
+package jpmorgan.hlevnjak.msgsys.impl;
 
 import java.util.Random;
 import java.util.concurrent.CountDownLatch;
 
-import jpmorgan.hlevnjak.messagingsystem.Gateway;
-import jpmorgan.hlevnjak.messagingsystem.Message;
-import jpmorgan.hlevnjak.messagingsystem.Resource;
+import jpmorgan.hlevnjak.msgsys.Gateway;
+import jpmorgan.hlevnjak.msgsys.Message;
+import jpmorgan.hlevnjak.msgsys.Resource;
 
 /***
  * A simple implementation of Resource. It contains a main thread that wait for an amount of time, 

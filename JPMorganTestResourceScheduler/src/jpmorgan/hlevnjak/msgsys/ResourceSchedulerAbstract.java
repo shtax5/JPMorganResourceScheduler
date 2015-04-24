@@ -1,11 +1,11 @@
-package jpmorgan.hlevnjak.messagingsystem;
+package jpmorgan.hlevnjak.msgsys;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
-import jpmorgan.hlevnjak.messagingsystem.exceptions.TerminatedGroupException;
+import jpmorgan.hlevnjak.msgsys.exceptions.TerminatedGroupException;
 
 /***
  * ResourceSchedulerAbstract contains the implementation of most necessary functionalities for 

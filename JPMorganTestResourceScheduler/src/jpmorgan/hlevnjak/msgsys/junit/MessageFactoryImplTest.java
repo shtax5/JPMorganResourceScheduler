@@ -1,10 +1,10 @@
-package jpmorgan.hlevnjak.messagingsystem.junit;
+package jpmorgan.hlevnjak.msgsys.junit;
 
 import static org.junit.Assert.assertTrue;
-import jpmorgan.hlevnjak.messagingsystem.Message;
-import jpmorgan.hlevnjak.messagingsystem.MessageFactory;
-import jpmorgan.hlevnjak.messagingsystem.impl.MessageFactoryImpl;
-import jpmorgan.hlevnjak.messagingsystem.impl.MessageImpl;
+import jpmorgan.hlevnjak.msgsys.Message;
+import jpmorgan.hlevnjak.msgsys.MessageFactory;
+import jpmorgan.hlevnjak.msgsys.impl.MessageFactoryImpl;
+import jpmorgan.hlevnjak.msgsys.impl.MessageImpl;
 
 import org.junit.After;
 import org.junit.Before;
